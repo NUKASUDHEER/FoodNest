@@ -1,4 +1,4 @@
-go to the food-app-ass1 folder ,then follow the below steps
+go to the food-app folder ,then follow the below steps
 first install the node modules:  npm i
 then start the react app by: npm start 
 
