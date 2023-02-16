@@ -1,0 +1,17 @@
+.orderBoxContainer {
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+    height: auto;
+}
+
+.orderBox {
+    width:90%;
+    height:auto;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}
